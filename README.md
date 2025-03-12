@@ -36,5 +36,5 @@ This study aims to analyze the characteristics of passengers and air operators b
 6. Despite the enhancement with exogenous variables, the Prophet model still fell short of the accuracy achieved by the LSTM and ARIMA models.
 
 Collab Notebook:
-![image](https://github.com/user-attachments/assets/715f8283-e497-4c13-a8f7-cf64747120e2)
+https://github.com/user-attachments/assets/715f8283-e497-4c13-a8f7-cf64747120e2
 
