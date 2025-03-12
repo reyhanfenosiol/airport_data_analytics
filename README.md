@@ -1,7 +1,7 @@
 
 # Descriptive, Diagnostic & Forecast Analysis of Passenger Flights at Juanda Surabaya Airport Based on Google Trends (2011 – August 2023)
 
-Proposed Research:
+**Proposed Research:**
 This study aims to analyze the characteristics of passengers and air operators based on domestic and international flight traffic data at Juanda Surabaya Airport from 2011 to August 2023.
 
 
