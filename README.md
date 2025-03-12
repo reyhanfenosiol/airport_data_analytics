@@ -34,3 +34,7 @@ This study aims to analyze the characteristics of passengers and air operators b
 4. The Autoregressive Integrated Moving Average (ARIMA) model also provided reasonably accurate predictions, outperforming the Prophet models.
 5. The Prophet model, when supplemented with Google Trends data as exogenous variables, improved forecasting accuracy by reducing MAPE from 0.863 to 0.36.
 6. Despite the enhancement with exogenous variables, the Prophet model still fell short of the accuracy achieved by the LSTM and ARIMA models.
+
+Collab Notebook:
+![image](https://github.com/user-attachments/assets/715f8283-e497-4c13-a8f7-cf64747120e2)
+
